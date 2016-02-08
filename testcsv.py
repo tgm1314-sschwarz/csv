@@ -6,7 +6,7 @@ __author__ = 'd4rkor3'
 
 class TestCSV(TestCase):
     def setUp(self):
-        self.csv = csv_uebung()
+        self.csv = CSVTest()
         self.f1 = self.csv.open_file("input1.csv", "rt")
         self.f2 = self.csv.open_file("input2.csv", "rt")
 

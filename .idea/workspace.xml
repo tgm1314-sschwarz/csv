@@ -16,7 +16,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/csv$Unittests_in_TestCSV__1_.coverage" NAME="Unittests in TestCSV (1) Coverage Results" MODIFIED="1454919290330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv$Unittest_TestCSV_test_close_file.coverage" NAME="Unittest TestCSV.test_close_file Coverage Results" MODIFIED="1454602768780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/csv$Unittests_in_TestCSV__3_.coverage" NAME="Unittests in TestCSV (3) Coverage Results" MODIFIED="1454603045860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csv$Unittests_in_TestCSV__3_.coverage" NAME="Unittests in TestCSV (3) Coverage Results" MODIFIED="1454941242667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv$Unittests_in_test__1_.coverage" NAME="Unittests in test (1) Coverage Results" MODIFIED="1454600736913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv$Unittest_TestCSV_test_open_file.coverage" NAME="Unittest TestCSV.test_open_file Coverage Results" MODIFIED="1454600943538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv$Unittests_in_TestAll__2_.coverage" NAME="Unittests in TestAll (2) Coverage Results" MODIFIED="1454600498252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -54,8 +54,8 @@
       <file leaf-file-name="csv_uebung.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csv_uebung.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47532895">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.74835527">
+              <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -65,14 +65,13 @@
         <entry file="file://$PROJECT_DIR$/testcsv.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
-                <element signature="e#135#858#0" expanded="false" />
-                <element signature="e#898#973#0" expanded="false" />
-                <element signature="e#1013#1127#0" expanded="false" />
-                <element signature="e#1170#1280#0" expanded="false" />
-                <element signature="e#1321#1406#0" expanded="false" />
+                <element signature="e#895#970#0" expanded="false" />
+                <element signature="e#1010#1124#0" expanded="false" />
+                <element signature="e#1167#1277#0" expanded="false" />
+                <element signature="e#1318#1403#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -174,7 +173,7 @@
       <recent name="C:\Users\d4rkor3\Desktop\sew_5\csv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in testcsv">
+  <component name="RunManager" selected="Python tests.Unittests in TestCSV (3)">
     <configuration default="false" name="Unittests in TestCSV (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,29 +190,6 @@
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestCSV.test_read_file" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="csv" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcsv.py" />
-      <option name="CLASS_NAME" value="TestCSV" />
-      <option name="METHOD_NAME" value="test_read_file" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -268,6 +244,29 @@
       <method />
     </configuration>
     <configuration default="false" name="Unittests in TestCSV (2)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="csv" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcsv.py" />
+      <option name="CLASS_NAME" value="TestCSV" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in TestCSV (3)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -590,18 +589,18 @@
       <item index="3" class="java.lang.String" itemvalue="Python.tests" />
       <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test" />
       <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (1)" />
-      <item index="6" class="java.lang.String" itemvalue="Python tests.Unittest TestCSV.test_read_file" />
-      <item index="7" class="java.lang.String" itemvalue="Python tests.Unittests in testcsv" />
-      <item index="8" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV" />
-      <item index="9" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (2)" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.Unittests in testcsv" />
+      <item index="7" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV" />
+      <item index="8" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (2)" />
+      <item index="9" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in testcsv" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestCSV.test_read_file" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testcsv" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV" />
       </list>
     </recent_temporary>
   </component>
@@ -680,11 +679,10 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
-            <element signature="e#135#858#0" expanded="false" />
-            <element signature="e#898#973#0" expanded="false" />
-            <element signature="e#1013#1127#0" expanded="false" />
-            <element signature="e#1170#1280#0" expanded="false" />
-            <element signature="e#1321#1406#0" expanded="false" />
+            <element signature="e#895#970#0" expanded="false" />
+            <element signature="e#1010#1124#0" expanded="false" />
+            <element signature="e#1167#1277#0" expanded="false" />
+            <element signature="e#1318#1403#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -703,11 +701,10 @@
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
-            <element signature="e#135#858#0" expanded="false" />
-            <element signature="e#898#973#0" expanded="false" />
-            <element signature="e#1013#1127#0" expanded="false" />
-            <element signature="e#1170#1280#0" expanded="false" />
-            <element signature="e#1321#1406#0" expanded="false" />
+            <element signature="e#895#970#0" expanded="false" />
+            <element signature="e#1010#1124#0" expanded="false" />
+            <element signature="e#1167#1277#0" expanded="false" />
+            <element signature="e#1318#1403#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -778,22 +775,21 @@
     <entry file="file://$PROJECT_DIR$/testcsv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
-            <element signature="e#135#858#0" expanded="false" />
-            <element signature="e#898#973#0" expanded="false" />
-            <element signature="e#1013#1127#0" expanded="false" />
-            <element signature="e#1170#1280#0" expanded="false" />
-            <element signature="e#1321#1406#0" expanded="false" />
+            <element signature="e#895#970#0" expanded="false" />
+            <element signature="e#1010#1124#0" expanded="false" />
+            <element signature="e#1167#1277#0" expanded="false" />
+            <element signature="e#1318#1403#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/csv_uebung.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47532895">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.74835527">
+          <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
           <folding />
         </state>
       </provider>
