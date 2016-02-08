@@ -1,6 +1,8 @@
 import csv
 
 
+testerror
+
 class CSVTest:
     """
     Class that can be used to read, append and write csv files.
