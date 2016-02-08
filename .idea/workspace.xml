@@ -31,7 +31,7 @@
     <SUITE FILE_PATH="coverage/csv$csv_uebung.coverage" NAME="csv_uebung Coverage Results" MODIFIED="1454602856594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv$Unittests_in_Test.coverage" NAME="Unittests in Test Coverage Results" MODIFIED="1454600746035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv$Unittests_in_TestAll__1_.coverage" NAME="Unittests in TestAll (1) Coverage Results" MODIFIED="1454600519391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/csv$Unittests_in_testcsv.coverage" NAME="Unittests in testcsv Coverage Results" MODIFIED="1454914777023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csv$Unittests_in_testcsv.coverage" NAME="Unittests in testcsv Coverage Results" MODIFIED="1454940990385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv$Unittest_TestCSV_test_open_file__1_.coverage" NAME="Unittest TestCSV.test_open_file (1) Coverage Results" MODIFIED="1454601622120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv$Unittests_in_TestAll.coverage" NAME="Unittests in TestAll Coverage Results" MODIFIED="1454599651353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/csv$Unittest_TestCSV_test_read_file.coverage" NAME="Unittest TestCSV.test_read_file Coverage Results" MODIFIED="1454603090704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -54,8 +54,8 @@
       <file leaf-file-name="csv_uebung.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csv_uebung.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1118421">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.47532895">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,8 +65,9 @@
         <entry file="file://$PROJECT_DIR$/testcsv.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding>
+                <element signature="e#0#24#0" expanded="true" />
                 <element signature="e#135#858#0" expanded="false" />
                 <element signature="e#898#973#0" expanded="false" />
                 <element signature="e#1013#1127#0" expanded="false" />
@@ -95,8 +96,8 @@
         <option value="$PROJECT_DIR$/testall.py" />
         <option value="$PROJECT_DIR$/tests.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/csv_uebung.py" />
         <option value="$PROJECT_DIR$/testcsv.py" />
+        <option value="$PROJECT_DIR$/csv_uebung.py" />
       </list>
     </option>
   </component>
@@ -173,7 +174,7 @@
       <recent name="C:\Users\d4rkor3\Desktop\sew_5\csv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in TestCSV (1)">
+  <component name="RunManager" selected="Python tests.Unittests in testcsv">
     <configuration default="false" name="Unittests in TestCSV (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -596,8 +597,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testcsv" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in testcsv" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (1)" />
         <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV (2)" />
         <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in TestCSV" />
         <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestCSV.test_read_file" />
@@ -618,7 +619,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11302083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -678,6 +679,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="e#0#24#0" expanded="true" />
             <element signature="e#135#858#0" expanded="false" />
             <element signature="e#898#973#0" expanded="false" />
             <element signature="e#1013#1127#0" expanded="false" />
@@ -700,6 +702,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding>
+            <element signature="e#0#24#0" expanded="true" />
             <element signature="e#135#858#0" expanded="false" />
             <element signature="e#898#973#0" expanded="false" />
             <element signature="e#1013#1127#0" expanded="false" />
@@ -775,8 +778,9 @@
     <entry file="file://$PROJECT_DIR$/testcsv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
+            <element signature="e#0#24#0" expanded="true" />
             <element signature="e#135#858#0" expanded="false" />
             <element signature="e#898#973#0" expanded="false" />
             <element signature="e#1013#1127#0" expanded="false" />
@@ -788,8 +792,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/csv_uebung.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1118421">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.47532895">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
