@@ -24,7 +24,7 @@ class TestCSV(TestCase):
         pass
 
     def test_open_file(self):
-        self.assertRaises(FileNotFoundError, self.csv.open_file, "wrong.csv", "rt")
+        self.assertRaises(FileNotFoundError, self.csv.open_file, "input1.csv", "rt")
 
     def test_read_file(self):
         reader = self.csv.read_file(self.f1, self.d1)
