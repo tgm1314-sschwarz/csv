@@ -11,7 +11,7 @@ __version__ = "1.0"
 class csv_uebung():
 
     def __init__(self):
-
+        """
         self.f1 = 'a.csv'
         self.f2 = 'input2.csv'
         self.f3 = 'output.csv'
@@ -35,7 +35,7 @@ class csv_uebung():
         self.close_file(f1)
         self.close_file(f2)
         self.close_file(f3)
-
+        """
         pass
 
     def open_file(self, name, type):
