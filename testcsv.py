@@ -1,8 +1,6 @@
 from csv_uebung import *
 from unittest import TestCase
 
-__author__ = 'd4rkor3'
-
 
 class TestCSV(TestCase):
     def setUp(self):
